@@ -18,6 +18,3 @@ Clasificacion de IMC:
 - 18.5 - 24.9: Peso normal
 - 25 - 29.9: Sobrepeso
 - 30 o mas: Obesidad
-
-La formula utilizada:
-IMC = peso / (altura^2)
